@@ -1,0 +1,28 @@
+name: BryceAndTheBloodNinjas
+favicon: null
+layout_spectrum: 0.06645858311094344
+typography_spectrum: 0.28757916460745037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7328595537692308
+  lightness: 0.4321706350892782
+  saturation: 0.053482566960155964
+  rhythmicContrast: 0.3981045966502279
+purpose: []
